@@ -137,4 +137,4 @@ This project is licensed under the MIT License.
 - **Matplotlib**: For visualization.
 
 ## Contact
-For any questions, contact **[Your Name]** at [your-email@example.com].
+For any questions, contact **Harjeeth Kuchar Kal** at kkharjeeth@gmail.com
